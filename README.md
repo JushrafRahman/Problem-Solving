@@ -1,2 +1,2 @@
 # Problem-Solving
-Contains my solutions of some problems of different OJs (Codeforces, Leetcode, etc.)
+Contains my solutions to problems of different OJs (Codeforces, Leetcode, etc.)
